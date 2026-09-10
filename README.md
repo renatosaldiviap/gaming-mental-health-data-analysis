@@ -41,3 +41,13 @@ Video games are one of the most prominent entertainment industries globally, spa
 ├── gaming_mental_health_analysis.ipynb   # Main Jupyter Notebook with full EDA
 ├── .gitignore                           # Excludes large CSV datasets
 └── README.md                            # Project documentation and findings
+```
+
+## How to Run
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/RenatoSaldivia/gaming-mental-health-data-analysis.git
+   ```
+2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/sharmajicoder/gaming-and-mental-health).
+3. Place `gaming_mental_health_10M_40features.csv` in your Google Drive or root directory.
+4. Run `gaming_mental_health_analysis.ipynb` using Jupyter Notebook or Google Colab.
